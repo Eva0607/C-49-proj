@@ -1,0 +1,24 @@
+.about {
+    display: flex;
+    justify-content: space-between;
+    color : #000300
+
+}
+.follow {
+    display: flex;
+    justify-content: space-between;
+    color : blueviolet
+
+}
+.origami1{
+    display: flex;
+    justify-content: space-between;
+    color : pink;
+
+}
+.origami2{
+    display: flex;
+    justify-content: space-between;
+    color : green
+}
+
